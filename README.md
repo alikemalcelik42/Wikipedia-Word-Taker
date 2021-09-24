@@ -1,6 +1,6 @@
 # Wikipedia-Word-Taker
 ## About
-Program that finds which words and how many times in any wikipedia source with Python 3.9.6
+Program to find how many times which words appear in any wikipedia source with Python 3.9.6
 ## Installation And Running
 You can install libraries using pip
 ```
